@@ -5,6 +5,6 @@
 <br>
 <b>How to Run:</b> Fork repository and download to local device. Load folder onto local server and select HTML file to render React app.<br>
 <br>
-<b>Future improvements:</b> Future iterations will turn the "winner is player ___" message into a pop-up over the board and prevent any more boxes from being played.<br>
+<b>Future improvements:</b> Future iterations will turn the "winner is player ___" message into a pop-up over the board and prevent any more boxes from being played. This could be accomplished by unmounting the squares and mounting a single 600x600 square component on the board with the message displaying which player won the game.<br>
 <br>
 <b>License information:</b> MIT License
